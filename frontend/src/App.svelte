@@ -15,7 +15,7 @@
   <div class="result" id="result">{resultText}</div>
   <div class="input-box text-black" id="input">
     <input autocomplete="off" bind:value={name} class="input" id="name" type="text"/>
-    <button class="btn" onclick={greet}>Greet</button>
+    <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded" onclick={greet}>Greet</button>
   </div>
 </main>
 
