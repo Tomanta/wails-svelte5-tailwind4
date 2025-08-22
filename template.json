@@ -3,5 +3,5 @@
   "shortname": "wails-svelte5-tailwind4",
   "author": "Tomanta <bzednick@gmail.com>",
   "description": "Wails template with latest version of Svelte and Tailwind",
-  "helpurl": "URL for help with the template, eg homepage"
+  "helpurl": "https://github.com/Tomanta/wails-svelte5-tailwind4"
 }

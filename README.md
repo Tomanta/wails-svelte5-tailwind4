@@ -2,11 +2,12 @@
 
 ## About
 
-Wails template that includes Svelte 5 and Tailwind 4.1
+Wails template that includes Typescript, Svelte 5 and Tailwind 4.1
 
 To use this template:
 
 ```bash
+wails init -n "Your Project Name" -t https://github.com/Tomanta/wails-svelte5-tailwind4
 ```
 
 ## Live Development

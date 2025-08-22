@@ -11,7 +11,6 @@
 </script>
 
 <main>
-    <h1 class="text-3xl font-bold underline">    Hello world!  </h1>
   <img alt="Wails logo" id="logo" src="{logo}">
   <div class="result" id="result">{resultText}</div>
   <div class="input-box text-black" id="input">
